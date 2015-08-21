@@ -69,6 +69,15 @@ public class AudioManager : Singleton<AudioManager>
             musicSource.UnPause();
         }
     }
-    
+
+    public void DuckMusic()
+    {
+
+    }
+
+    public void UnduckMusic()
+    {
+
+    }
     
 }

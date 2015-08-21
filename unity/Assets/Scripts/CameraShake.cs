@@ -3,9 +3,7 @@ using System.Collections;
 
 public class CameraShake : MonoBehaviour {
 
-    Vector3 originalCameraPosition;
-
-    float shakeAmt = 0;
+    Vector3 originalCameraPosition;    
 
     public Camera mainCamera;
 
